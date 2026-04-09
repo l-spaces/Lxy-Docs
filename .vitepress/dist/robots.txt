@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://l-spaces.github.io/Lxy-Docs/sitemap.xml

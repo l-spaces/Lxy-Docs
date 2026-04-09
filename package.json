@@ -9,7 +9,6 @@
     "preview": "vitepress preview"
   },
   "devDependencies": {
-    "terser": "^5.46.1",
     "vitepress": "^1.6.0"
   }
 }
