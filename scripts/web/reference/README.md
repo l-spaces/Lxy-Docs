@@ -18,10 +18,10 @@ description: 文档索引、阅读入口与引用关系
 ## 对应源码目录或关键文件
 
 - `docs/scripts/README.md`
-- `docs/scripts/reference/文档目录.md`
-- `docs/scripts/reference/阅读入口.md`
-- `docs/scripts/reference/文档关系.md`
-- `docs/scripts/changelog/CHANGELOG.md`
+- `docs/scripts/web/reference/文档目录.md`
+- `docs/scripts/web/reference/阅读入口.md`
+- `docs/scripts/web/reference/文档关系.md`
+- `docs/scripts/web/changelog/CHANGELOG.md`
 - `docs/.vitepress/config.mts`
 
 ## 文档清单

@@ -13,7 +13,7 @@ hero:
   actions:
     - theme: brand
       text: 快速开始
-      link: /scripts/guide/01-项目概述
+      link: /scripts/web/guide/01-项目概述
     - theme: alt
       text: GitHub
       link: https://gitee.com/my_spaces/lxy-vue-admin
