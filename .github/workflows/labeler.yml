@@ -87,7 +87,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: docs/.vitepress/dist # 构建产物目录，需与 VitePress 配置一致
+          path: .vitepress/dist # 构建产物目录，需与 VitePress 配置一致
 
   # deploy 任务：将构建产物部署到 GitHub Pages
   # 依赖关系：必须在 build 任务成功完成后执行
